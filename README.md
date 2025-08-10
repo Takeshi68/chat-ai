@@ -1,4 +1,4 @@
-# Futuristic chat website
+# Ai chat website
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/sketch1228s-projects/v0-futuristic-chat-website](https://vercel.com/sketch1228s-projects/v0-futuristic-chat-website)**
+**[(https://chat.hyuu.tech)](https://chat.hyuu.tech)**
 
 ## Build your app
 
